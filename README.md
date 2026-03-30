@@ -6,7 +6,7 @@ This is a Java Swing application that includes user login, signup, password mana
 ## Features
 - User Login & Signup
 - Dashboard UI
-- Task Management
+- Product Management
 - Password Handling
 
 ## How to Run
